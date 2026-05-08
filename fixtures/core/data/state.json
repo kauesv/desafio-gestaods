@@ -1,0 +1,191 @@
+[
+    {
+        "name": "São Paulo",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "SP",
+        "cod": "35"
+    },
+    {
+        "name": "Paraná",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "PR",
+        "cod": "41"
+    },
+    {
+        "name": "Santa Catarina",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "SC",
+        "cod": "42"
+    },
+    {
+        "name": "Rio Grande do Sul",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "RS",
+        "cod": "43"
+    },
+    {
+        "name": "Mato Grosso do Sul",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "MS",
+        "cod": "50"
+    },
+    {
+        "name": "Rondônia",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "RO",
+        "cod": "11"
+    },
+    {
+        "name": "Acre",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "AC",
+        "cod": "12"
+    },
+    {
+        "name": "Amazonas",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "AM",
+        "cod": "13"
+    },
+    {
+        "name": "Roraima",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "RR",
+        "cod": "14"
+    },
+    {
+        "name": "Pará",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "PA",
+        "cod": "15"
+    },
+    {
+        "name": "Amapá",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "AP",
+        "cod": "16"
+    },
+    {
+        "name": "Tocantins",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "TO",
+        "cod": "17"
+    },
+    {
+        "name": "Maranhão",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "MA",
+        "cod": "21"
+    },
+    {
+        "name": "Rio Grande do Norte",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "RN",
+        "cod": "24"
+    },
+    {
+        "name": "Paraíba",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "PB",
+        "cod": "25"
+    },
+    {
+        "name": "Pernambuco",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "PE",
+        "cod": "26"
+    },
+    {
+        "name": "Alagoas",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "AL",
+        "cod": "27"
+    },
+    {
+        "name": "Sergipe",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "SE",
+        "cod": "28"
+    },
+    {
+        "name": "Bahia",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "BA",
+        "cod": "29"
+    },
+    {
+        "name": "Minas Gerais",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "MG",
+        "cod": "31"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "RJ",
+        "cod": "33"
+    },
+    {
+        "name": "Mato Grosso",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "MT",
+        "cod": "51"
+    },
+    {
+        "name": "Goiás",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "GO",
+        "cod": "52"
+    },
+    {
+        "name": "Distrito Federal",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "DF",
+        "cod": "53"
+    },
+    {
+        "name": "Piauí",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "PI",
+        "cod": "22"
+    },
+    {
+        "name": "Ceará",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "CE",
+        "cod": "23"
+    },
+    {
+        "name": "Espírito Santo",
+        "country_name": "Brazil",
+        "country_code": "+55",
+        "uf": "ES",
+        "cod": "32"
+    }
+]

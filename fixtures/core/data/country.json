@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Brazil",
+        "alpha_code": "BRA",
+        "country_code": "+55",
+        "currency": "BRL",
+        "region": "Americas",
+        "sub_region": "South America"
+    },
+    {
+        "name": "United States",
+        "alpha_code": "US",
+        "country_code": "+1",
+        "currency": "USD",
+        "region": "Americas",
+        "sub_region": "North America"
+    }
+]
